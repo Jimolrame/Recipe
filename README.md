@@ -8,4 +8,5 @@ Recipe management
 4. .py or and other generating the .md
 5. Showing possible substitute ingredient
 6. Allow traduction
+7. .py and other for table representationof formula
 
