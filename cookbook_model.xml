@@ -18,7 +18,7 @@
         <formula ...="simmer( cut&mix(1,2) simmer(cut(4),'time'=5 ) )"/> -> table representation as :http://www.cookingforengineers.com/recipe/36/Meat-Lasagna
         <directions>
             <step>1. Slice mushrooms (id. ingredients) and garlic.</step> + timer + cooking type + image + temperature + id step
-
+            <!--steps should identify input action(and time temperature..) and output for formula reprensentation-->
         </directions>
     </recipe>
 </cookbook>
