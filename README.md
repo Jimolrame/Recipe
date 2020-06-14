@@ -7,5 +7,5 @@ Recipe management
 3. Allow adding editing of ingredients (state etc...) and recipes
 4. .py or and other generating the .md
 5. Showing possible substitute ingredient
-
+6. Allow traduction
 
