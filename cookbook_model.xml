@@ -2,7 +2,7 @@
 <cookbook>
     <recipe xml:id="AlAbAlA">
         <title>AlAbAlA</title>
-        <yield quantity="" type="" />
+        <serving quantity="" type="" />
         
         <prep_time quantity="20" unit="minutes"/>
         <cook_time quantity="20" unit="minutes"/>
