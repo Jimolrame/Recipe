@@ -1,3 +1,5 @@
+<span style="font-family: 'Open Sans', sans-serif;">LOVE!</span>
+
 # Recipe
 Recipe management
 
