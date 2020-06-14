@@ -2,6 +2,9 @@
   <ingredient_list>
 
     <--!Dairy-->
+    <--!Pasta-->
+    <--!Flour-->
+    <--!Grains-->
       
     <--!Pasta-->
       <ingredient name="pasta" allergen="" type="pasta" department="fresh food" season="">
