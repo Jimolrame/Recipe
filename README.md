@@ -16,3 +16,25 @@ Recipe management
 6. Allow traduction
 7. .py and other for table representationof formula
 
+## Ingredients category
+Dairy
+Vegetables
+Fruits
+Baking and grains
+Sweet
+Spice
+Meat
+Fish
+Seafood
+Condiments
+Oils
+Seasonings
+Sauces
+beans
+Alcohol
+Soup
+Nuts
+Dairy alternative
+Dessert and snacks
+beverages
+
