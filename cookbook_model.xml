@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cookbook>
+    <recipe xml:id="AlAbAlA">
+        <title>AlAbAlA</title>
+        <yield quantity="" type="" />
+        
+        <prep_time quantity="20" unit="minutes"/>
+        <cook_time quantity="20" unit="minutes"/>
+        <cuisine type=""/>
+        <meal type="" />
+        <season name=""/>
+        <allergen =... eggs /nuts / vegan vege milk etc>
+        <description text="" />
+        <img ...="" />
+        
+        <ingredient list="ie dough, filling, icing" id="1" name="AlAbAlA" quantity="AlAbAlA" unit="AlAbAlA" state="AlAbAlA"/>
+        
+        <formula ...="simmer( cut&mix(1,2) simmer(cut(4),'time'=5 ) )"/> -> table representation as :http://www.cookingforengineers.com/recipe/36/Meat-Lasagna
+        <directions>
+            <step>1. Slice mushrooms (id. ingredients) and garlic.</step> + timer + cooking type + image + temperature + id step
+
+        </directions>
+    </recipe>
+</cookbook>
