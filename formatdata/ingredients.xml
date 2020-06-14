@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+  <ingredient_list>
+    
+    <--! veggie -->
+    <ingredient name="apple" allergen="" type="veggie" department="fresh food" season="">
+    <ingredient name="garlic" allergen="" type="veggie" department="fresh food" season="">
+    <ingredient name="pear" allergen="" type="veggie" department="fresh food" season="">
+    <ingredient name="tomato" allergen="" type="veggie" department="fresh food" season="">
+      
+    <--! spices -->
+    <ingredient name="cumin" state="powder" allergen="" type="veggie" department="fresh food" season="">
+    <ingredient name="cumin" state="grain" allergen="" type="veggie" department="fresh food" season="">
+    <ingredient name="curry" state="powder" allergen="" type="veggie" department="fresh food" season="">
+    
+    
+    
+    
+</ingredient_list>
